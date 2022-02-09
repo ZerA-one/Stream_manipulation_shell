@@ -46,5 +46,5 @@ You must write your result in a file named cars_2000_2010.csv
 ## Authors
 
 - [@ZerA-One](https://github.com/ZerA-one)
-- [luan sautron](luan.sautron@epitech.eu)
+- luan.sautron@epitech.eu
 
